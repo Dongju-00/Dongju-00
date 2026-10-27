@@ -6,6 +6,7 @@ AI Engineer
 지금은 주식·금융 데이터를 다루며 공시 검색과 AI 모의투자 서비스를 만들고 있습니다.
 
 [포트폴리오](https://app.notion.com/p/403890713f1481f886abd44b276d756a) · [개발 기록](https://app.notion.com/p/403890713f148150876ecc1ccf902ac3)
+
 Email : djdj1473@gmail.com
 
 ## 수상
