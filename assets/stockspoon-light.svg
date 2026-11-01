@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="235" viewBox="0 0 1200 235" role="img" aria-labelledby="title desc">
+<title id="title">Stockspoon</title><desc id="desc">Disclosure search, market data &amp; paper trading 75% → 90% Recall@5 · 100 answerable dev questions</desc>
+<rect x="1" y="1" width="1198" height="233" rx="14" fill="#ffffff" stroke="#dce5eb" stroke-width="2"/>
+<path d="M31 225H1169" stroke="#dce5eb"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR','Malgun Gothic',sans-serif"><text x="38" y="40" fill="#20ad96" font-size="16" letter-spacing="2" font-weight="700">FEATURED PROJECT</text>
+<text x="37" y="88" fill="#182b3a" font-size="36" font-weight="700">Stockspoon</text>
+<text x="39" y="126" fill="#607382" font-size="23">Disclosure search, market data &amp; paper trading</text>
+<text x="39" y="193" fill="#607382" font-size="19">LoRA · pgvector · QuestDB · SQS FIFO</text>
+<path d="M695 42V195" stroke="#dce5eb"/>
+<text x="736" y="80" fill="#20ad96" font-size="35" font-weight="700">Recall@5  75% → 90%</text>
+<text x="737" y="115" fill="#607382" font-size="20">100 answerable dev questions · +20.0%</text>
+<text x="736" y="165" fill="#182b3a" font-size="28" font-weight="600">SQS publish time -62.9%</text>
+<text x="737" y="199" fill="#607382" font-size="19">10,000 test messages · per-account order</text></g></svg>
