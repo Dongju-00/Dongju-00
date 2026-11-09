@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Dongju-00/Brix"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sugai-dark.svg" /><img src="./assets/sugai-light.svg" width="100%" alt="SugAI: 평균값 예측 대비 MAE 38.1% 감소, 한이음 동상" /></picture></a>
+<a href="https://github.com/Dongju-00/Brix"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sugai-dark.svg" /><img src="./assets/sugai-light.svg" width="100%" alt="Brix: 평균값 예측 대비 MAE 38.1% 감소, 한이음 동상" /></picture></a>
 <p>5인 팀 · 직접 촬영·당도 측정, 전처리·학습, Arduino·Jetson 연동</p>
 </td>
 <td width="50%" valign="top">
@@ -94,7 +94,7 @@
 </details>
 
 <details>
-<summary><b>SugAI</b> — 사진의 RGB·HSV 차이를 찾아 당도 예측 수정</summary>
+<summary><b>Brix</b> — 사진의 RGB·HSV 차이를 찾아 당도 예측 수정</summary>
 
 객체 검출·촬영, 당도 예측과 장치 제어를 연결한 딸기 자동 선별 시스템입니다. 데이터 수집·전처리·모델 학습과 Arduino·Jetson 연동을 맡았습니다.
 
