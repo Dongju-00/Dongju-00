@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Dongju-00/SugAI"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sugai-dark.svg" /><img src="./assets/sugai-light.svg" width="100%" alt="SugAI: 평균값 예측 대비 MAE 38.1% 감소, 한이음 동상" /></picture></a>
+<a href="https://github.com/Dongju-00/Brix"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sugai-dark.svg" /><img src="./assets/sugai-light.svg" width="100%" alt="SugAI: 평균값 예측 대비 MAE 38.1% 감소, 한이음 동상" /></picture></a>
 <p>5인 팀 · 직접 촬영·당도 측정, 전처리·학습, Arduino·Jetson 연동</p>
 </td>
 <td width="50%" valign="top">
